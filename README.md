@@ -2,28 +2,21 @@
 
 ## start
 
-### npm i
-
-### yarn start
+-   npm i
+-   yarn start
 
 ## element
 
-### Home - Clock, Greeting with LocalStorage
-
-### Board - CRUD
-
-### Weather - Current Weather API
+-   Home - Clock, Greeting with LocalStorage
+-   Board - CRUD
+-   Weather - Current Weather API
 
 ## skill
 
-### hook
-
-### redux
-
-### redux-saga
-
-### react-router
-
-### axios
+-   hook
+-   redux
+-   redux-saga
+-   react-router
+-   axios
 
 ![ex_screenshot](./img/momentum.png)
